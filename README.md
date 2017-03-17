@@ -1,1 +1,1 @@
-# grommet-boilerplate
+# React grommet boilerplate
